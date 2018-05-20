@@ -1,4 +1,5 @@
 # solution for https://www.hackerrank.com/challenges/insertion-sort/problem
+#hint https://www.youtube.com/watch?v=v_wj_mOAlig&t=844s
 import sys
 import array
 
